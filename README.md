@@ -1,2 +1,2 @@
 # INF2102-PFP
-Repo for INF2102 course at PUC-Rio.
+Este repositório contém a documentação do software referente ao relatório final da disciplina INF2102-PF, que se encontra dentro da pasta "doc". Também constam nesse repositório as entrevistas realizadas com profissionais que participaram da construção desse software, sendo eles engenheiros de software e cientistas de dados. As transcrições das entrevistas e o roteiro utilizado se encontram na pasta "entrevistas". 
